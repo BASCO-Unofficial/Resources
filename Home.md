@@ -18,6 +18,9 @@ The best place to start is this table of contents. Everything should be broken d
 ## General Computing
 ### Linux Tips
 ### Windows Tips
+### Command Line Interfaces
+#### Windows Command Line
+#### Linux Command Line
 ***
 ## Programming
 ***
