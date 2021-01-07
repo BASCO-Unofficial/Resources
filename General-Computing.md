@@ -6,7 +6,7 @@ This page will host general computing tools, utilities, and educational resource
 ##### Linux Networking
 #### Windows Tips
 ##### Windows Command Line
-##### Windows Subsystem for Linux
+##### Windows Subsystem for Linux (WSL)
 #### Cloud
 ##### Architecture
 #### Virtualization
