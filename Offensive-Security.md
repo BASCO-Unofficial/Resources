@@ -4,6 +4,11 @@ This page will be host Penetration Testing and Red Team utilities, tools, and ed
 
 ### Enumeration
 
+### Exploitation 
+
+### Privilege Escalation
+
+### 
+
 ### Reverse Engineering
 
-### ...
