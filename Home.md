@@ -5,7 +5,9 @@ The best place to start is this table of contents. Everything should be broken d
 ### Offensive Security
 #### Open-Source Intelligence
 #### Enumeration
-#### 
+#### Exploitation
+#### Privilege Escalation
+#### Reverse Engineering
 
 ### Defensive Security
 
