@@ -6,7 +6,7 @@ The best place to start is this table of contents. Everything should be broken d
 
 **Defensive Security:**
 
-**Linux Tips**
+**Linux Tips:**
 
 **Progamming:**
 
