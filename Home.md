@@ -8,6 +8,10 @@ The best place to start is this table of contents. Everything should be broken d
 
 **Linux Tips:**
 
-**Progamming:**
+**Windows Tips:**
+
+**Programming:**
+
+**Networking:**
 
 
