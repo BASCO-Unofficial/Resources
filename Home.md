@@ -5,7 +5,7 @@ The best place to start is this table of contents. Everything should be broken d
 ### [Offensive Security](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security)
 #### [Open-Source Intelligence](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#open-source-intelligence)
 #### [Enumeration](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#enumeration)
-#### [Exploitation]https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#exploitation)
+#### [Exploitation](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#exploitation)
 #### [Privilege Escalation](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#privilege-escalation)
 #### [Reverse Engineering](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#reverse-engineering)
 ***
