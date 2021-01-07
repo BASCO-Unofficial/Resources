@@ -1,1 +1,1 @@
-This page will be host 
+This page will be host Penetration Testing and Red Team utilities, tools, and education resources.
