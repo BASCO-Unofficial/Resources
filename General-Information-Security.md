@@ -6,6 +6,8 @@
 
 [**Certifications**](./General-Information-Security#certifications)
 
+***
+
 #### Open-Source Intelligence
 #### Cryptography
 #### Passwords

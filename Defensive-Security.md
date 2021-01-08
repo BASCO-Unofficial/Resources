@@ -22,6 +22,7 @@
 
  [**Certifications**](./Defensive-Security#certifications)
 
+***
 
 #### Intrusion Detection
 #### Digital Forensics

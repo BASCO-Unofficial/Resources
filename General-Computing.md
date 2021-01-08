@@ -1,6 +1,3 @@
-This page will host general computing tools, utilities, and educational resources.
-
-
 [**Linux Tips**](./General-Computing#linux)
 
 [**Linux Terminal**](./General-Computing#linux-terminal)

@@ -19,6 +19,5 @@ Operating systems and various distributed computing architectures.
 #### [Programming](./Programming#)
 Script-kiddies don't write code. Are you a script-kiddie?
 
-
 #### [Networking](./Networking#)
 As long as two independent systems communicate, you have a way in.
