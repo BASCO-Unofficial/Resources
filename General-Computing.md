@@ -1,22 +1,22 @@
 [**Linux Tips**](./General-Computing#linux)
 
-[**Linux Terminal**](./General-Computing#linux-terminal)
+[**↳ Linux Terminal**](./General-Computing#linux-terminal)
 
-[**Linux Networking**](./Networking#linux-networking)
+[**↳ Linux Networking**](./Networking#linux-networking)
 
 [**Windows Tips**](./General-Computing#windows-tips)
 
-[**Windows Command Line**](./General-Computing#windows-command-line)
+[**↳ Windows Command Line**](./General-Computing#windows-command-line)
 
-[**Windows Subsystem for Linux (WSL)**](./General-Computing#windows-subsystem-for-linux-wsl)
+[**↳ Windows Subsystem for Linux (WSL)**](./General-Computing#windows-subsystem-for-linux-wsl)
 
 [**Cloud**](./General-Computing#cloud)
 
-[**Architecture**](./General-computing#cloud)
+[**↳ Architecture**](./General-computing#cloud)
 
 [**Virtualization**](./General-Computing#linux-networking)
 
-[**Containerization**](./General-Computing#containerization)
+[**↳ Containerization**](./General-Computing#containerization)
 
 [**Certifications**](./General-Computing#certifications)
 
