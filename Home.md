@@ -2,59 +2,23 @@
 
 Whether you are new to Information Security, a seasoned veteran, or anything in between, this Wiki is aimed at providing references to tools, utilities, and educational materials for all aspects of this field and the encompassing industry of Information Technology.
 
+This Wiki will contain FAQs; links to tutorials, tools, and utilities; and other resources that students in the BASCO program have found useful.
+***
+#### [General Information Security](./General-Information-Security#)
+For the scoop on passwords, cryptography, and other InfoSec concepts.
 
-***
-## [General Information Security](./General-Information-Security#)
-### [Open-Source Intelligence](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#open-source-intelligence)
-### [Cryptography](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#cryptography)
-### [Passwords](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#passwords)
-### [Certifications](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#certifications)
-***
-## [Offensive Security](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#)
-### [Enumeration](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#enumeration)
-### [Exploitation](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#exploitation)
-### [Privilege Escalation](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#privilege-escalation)
-### [Reverse Engineering](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#reverse-engineering)
-### [Certifications](https://github.com/BASCO-Unofficial/Resources/wiki/Offensive-Security#certifications)
-***
-## [Defensive Security](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#)
-### [Intrusion Detection](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#intrusion-detection)
-### [Digital Forensics](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#digital-forensics)
-#### [Hardware](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#hardware)
-#### [Windows](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#windows)
-#### [Linux](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#windows)
-#### [MacOS](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#macos)
-#### [Android](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#android)
-#### [Network](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#network)
-### [Threat Hunting and Intelligence](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#threat-hunting-and-intelligence)
-### [Incident Response](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#incident-response)
-### [Continuous Monitoring and SIEM](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#continuous-monitoring-and-siem)
-### [Certifications](https://github.com/BASCO-Unofficial/Resources/wiki/Defensive-Security#certifications)
-***
-## [General Computing](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#)
-### [Linux Tips](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#Linux)
-#### [Linux Terminal](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#linux-terminal)
-#### [Linux Networking](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#linux-networking)
-### [Windows Tips](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#windows-tips)
-#### [Windows Command Line](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#windows-command-line)
-#### [Windows Subsystem for Linux](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#windows-subsystem-for-linux-wsl)
-### [Cloud](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#cloud)
-#### [Architecture](https://github.com/BASCO-Unofficial/Resources/wiki/General-computing#cloud)
-### [Virtualization](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#linux-networking)
-#### [Containerization](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#containerization)
-###[Certifications](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#certifications)
-***
-## [Programming](https://github.com/BASCO-Unofficial/Resources/wiki/Programming)
-### [C](https://github.com/BASCO-Unofficial/Resources/wiki/Programming#c)
-### [Python](https://github.com/BASCO-Unofficial/Resources/wiki/Programming#python)
-### [Assembly](https://github.com/BASCO-Unofficial/Resources/wiki/Programming#assembly)
-### [Bash](https://github.com/BASCO-Unofficial/Resources/wiki/Programming#bash)
-### [PowerShell](https://github.com/BASCO-Unofficial/Resources/wiki/Programming#powershell)
+#### [**Offensive Security**](./Offensive-Security#)
+This section contains all things related to penetration testing, ethical hacking, red-teaming, and exploitation.
 
-***
-## [Networking](https://github.com/BASCO-Unofficial/Resources/wiki/Networking)
-### [General Concepts](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#general-concepts)
-#### [OSI & TCP/IP Model](https://github.com/BASCO-Unofficial/Resources/wiki/Networking)
-#### [Protocols](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#protocols)
-### [Architecture](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#architecture)
-### [Linux Networking](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#linux-networking)
+#### [**Defensive Security**](./Defensive-Security#)
+Look no further than here if you're searching for anything related to blue-team, forensics, incident handling/response, and monitoring.
+
+#### [General Computing](./General-Computing#)
+Operating systems and various distributed computing architectures.
+
+#### [Programming](./Programming#)
+Script-kiddies don't write code. Are you a script-kiddie?
+
+
+#### [Networking](./Networking#)
+As long as two independent systems communicate, you have a way in.

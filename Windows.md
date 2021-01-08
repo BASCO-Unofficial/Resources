@@ -1,1 +1,0 @@
-This page will host general Windows OS tools, utilities, and educational resources.

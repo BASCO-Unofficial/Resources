@@ -1,14 +1,11 @@
-This page will be host Penetration Testing and Red Team utilities, tools, and education resources.
+[**Enumeration**](./Offensive-Security#enumeration)
+[**Exploitation**](./Offensive-Security#exploitation)
+[**Privilege Escalation**](./Offensive-Security#privilege-escalation)
+[**Reverse Engineering**](./Offensive-Security#reverse-engineering)
+[**Certifications**](./Offensive-Security#certifications)
 
-### Open-Source Intelligence
-
-### Enumeration
-
-### Exploitation 
-
-### Privilege Escalation
-
-### 
-
-### Reverse Engineering
-
+#### Enumeration
+#### Exploitation
+#### Privilege Escalation
+#### Reverse Engineering
+#### Certifications
