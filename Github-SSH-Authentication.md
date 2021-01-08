@@ -2,7 +2,7 @@ Github SSH Authentication
 
 Interaction with Github using git over HTTPS was an adequate solution for confidentiality and authorization. However, being required to enter account credentials each time I needed to push commits became cumbersome when a strong password has been implemented.
 
-In my case, I required a "unified" authentication scheme, one I had used in other systems but had high entropy and was fully encrypted. Since it was used in multiple workflows, integration into `git` workflows would be trivial.
+In my case, I required a "unified" authentication scheme, one I had used in other authentication schemes but had high entropy and was fully encrypted. Accordingly, workflow integration with `git` needed to be trivial.
 
 ### Caching Credentials
 Among the first solutions found was a feature built into git which [caches user credentials](https://docs.github.com/en/free-pro-team@latest/github/using-git/caching-your-github-credentials-in-git#platform-linux).
