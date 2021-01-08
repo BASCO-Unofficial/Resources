@@ -1,4 +1,4 @@
-[Linux Tips](./General-Computing#linux)
+[**Linux Tips**](./General-Computing#linux)
 
 [**↳ Linux Terminal**](./General-Computing#linux-terminal)
 
