@@ -1,8 +1,10 @@
 # Welcome to the BASCO Wiki!
 
-The best place to start is this table of contents. Everything should be broken down concisely. If you have any issues please let us know in the discord. Alternatively, you can browse an unsorted list of pages to the right. What can be found in each section is described below.
+Whether you are new to Information Security, a seasoned veteran, or anything in between, this Wiki is aimed at providing references to tools, utilities, and educational materials for all aspects of this field and the encompassing industry of Information Technology.
+
+
 ***
-## [General Information Security](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#)
+## [General Information Security](./General-Information-Security#)
 ### [Open-Source Intelligence](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#open-source-intelligence)
 ### [Cryptography](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#cryptography)
 ### [Passwords](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#passwords)
@@ -31,16 +33,16 @@ The best place to start is this table of contents. Everything should be broken d
 ***
 ## [General Computing](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#)
 ### [Linux Tips](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#Linux)
-#### [Linux Terminal](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#linux-terminal)
-#### [Linux Networking](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#linux-networking)
-### [Windows Tips](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#windows-tips)
-#### [Windows Command Line](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#windows-command-line)
-#### [Windows Subsystem for Linux](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#windows-subsystem-for-linux-wsl)
-### [Cloud](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#cloud)
-#### [Architecture](https://github.com/BASCO-Unofficial/Resources/wiki/General-Information-Security#cloud)
-### [Virtualization]()
-#### [Containerization]
-
+#### [Linux Terminal](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#linux-terminal)
+#### [Linux Networking](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#linux-networking)
+### [Windows Tips](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#windows-tips)
+#### [Windows Command Line](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#windows-command-line)
+#### [Windows Subsystem for Linux](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#windows-subsystem-for-linux-wsl)
+### [Cloud](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#cloud)
+#### [Architecture](https://github.com/BASCO-Unofficial/Resources/wiki/General-computing#cloud)
+### [Virtualization](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#linux-networking)
+#### [Containerization](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#containerization)
+###[Certifications](https://github.com/BASCO-Unofficial/Resources/wiki/General-Computing#certifications)
 ***
 ## [Programming](https://github.com/BASCO-Unofficial/Resources/wiki/Programming)
 ### [C](https://github.com/BASCO-Unofficial/Resources/wiki/Programming#c)
@@ -54,5 +56,5 @@ The best place to start is this table of contents. Everything should be broken d
 ### [General Concepts](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#general-concepts)
 #### [OSI & TCP/IP Model](https://github.com/BASCO-Unofficial/Resources/wiki/Networking)
 #### [Protocols](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#protocols)
-### [Architecture]()
-### [Linux Networking]
+### [Architecture](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#architecture)
+### [Linux Networking](https://github.com/BASCO-Unofficial/Resources/wiki/Networking#linux-networking)
