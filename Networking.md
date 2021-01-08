@@ -1,6 +1,6 @@
 [**General Concepts**](./Networking#general-concepts)
 
-[**OSI & TCP/IP Model**](./Networking)
+[**OSI & TCP/IP Model**](./Networking#osi--tcpip-model)
 
 [**Protocols**](./Networking#protocols)
 

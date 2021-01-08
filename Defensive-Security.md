@@ -2,17 +2,17 @@
 
  [**Digital Forensics**](./Defensive-Security#digital-forensics)
 
- [**↳ Hardware**](./Defensive-Security#hardware)
+ [**↳ Hardware**](./Defensive-Security#-hardware)
 
- [**↳ Windows**](./Defensive-Security#windows)
+ [**↳ Windows**](./Defensive-Security#-windows)
 
- [**↳ Linux**](./Defensive-Security#windows)
+ [**↳ Linux**](./Defensive-Security#-linux)
 
- [**↳ MacOS**](./Defensive-Security#macos)
+ [**↳ MacOS**](./Defensive-Security#-macos)
 
- [**↳ Mobile**](./wiki/Defensive-Security#android)
+ [**↳ Mobile**](./wiki/Defensive-Security#-android)
 
- [**↳ Network**](./Defensive-Security#network)
+ [**↳ Network**](./Defensive-Security#-network)
 
  [**Threat Hunting and Intelligence**](./Defensive-Security#threat-hunting-and-intelligence)
 
