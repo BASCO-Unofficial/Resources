@@ -1,5 +1,5 @@
 #### [Home](README.md)
-
+---
 [**Linux Tips**](#linux)
 
 [**↳ Linux Terminal**](#linux-terminal)
