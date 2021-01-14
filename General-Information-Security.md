@@ -1,10 +1,10 @@
-[**Open-Source Intelligence**](./General-Information-Security#open-source-intelligence)
+[**Open-Source Intelligence**](#open-source-intelligence)
 
-[**Cryptography**](./General-Information-Security#cryptography)
+[**Cryptography**](#cryptography)
 
-[**Passwords**](./General-Information-Security#passwords)
+[**Passwords**](#passwords)
 
-[**Certifications**](./General-Information-Security#certifications)
+[**Certifications**](#certifications)
 
 ***
 

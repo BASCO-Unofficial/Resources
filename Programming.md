@@ -1,14 +1,14 @@
-[**General**](./Programming#general)
+[**General**](#general)
 
-[**C**](./Programming#c)
+[**C**](#c)
 
-[**Python**](./Programming#python)
+[**Python**](#python)
 
-[**Assembly**](./Programming#assembly)
+[**Assembly**](#assembly)
 
-[**Bash**](./Programming#bash)
+[**Bash**](#bash)
 
-[**PowerShell**](./Programming#powershell)
+[**PowerShell**](#powershell)
 
 ***
 

@@ -1,12 +1,12 @@
-[**General Concepts**](./Networking#general-concepts)
+[**General Concepts**](#general-concepts)
 
-[**OSI & TCP/IP Model**](./Networking#osi--tcpip-model)
+[**OSI & TCP/IP Model**](#osi--tcpip-model)
 
-[**Protocols**](./Networking#protocols)
+[**Protocols**](#protocols)
 
-[**Architecture**](./Networking#architecture)
+[**Architecture**](#architecture)
 
-[**Linux Networking**](./Networking#linux-networking)
+[**Linux Networking**](#linux-networking)
 
 ***
 

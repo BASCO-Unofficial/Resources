@@ -1,12 +1,12 @@
-[**Enumeration**](./Offensive-Security#enumeration)
+[**Enumeration**](#enumeration)
 
-[**Exploitation**](./Offensive-Security#exploitation)
+[**Exploitation**](#exploitation)
 
-[**Privilege Escalation**](./Offensive-Security#privilege-escalation)
+[**Privilege Escalation**](#privilege-escalation)
 
-[**Reverse Engineering**](./Offensive-Security#reverse-engineering)
+[**Reverse Engineering**](#reverse-engineering)
 
-[**Certifications**](./Offensive-Security#certifications)
+[**Certifications**](#certifications)
 
 ***
 
