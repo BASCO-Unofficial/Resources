@@ -22,7 +22,7 @@
 
  [**Certifications**](#certifications)
 
-***
+---
 
 #### Intrusion Detection
 #### Digital Forensics

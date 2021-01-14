@@ -8,7 +8,7 @@
 
 [**Certifications**](#certifications)
 
-***
+---
 
 #### Enumeration
 #### Exploitation

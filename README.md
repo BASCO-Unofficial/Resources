@@ -4,7 +4,7 @@ Whether you are new to Information Security, a seasoned veteran, or anything in 
 
 This Wiki will contain FAQs; links to tutorials, tools, and utilities; and other resources that students in the BASCO program have found useful.
 
-***
+---
 
 #### [General Information Security](General-Information-Security#)
 Basic InfoSec concepts like cryptography, passwords, and OSINT.

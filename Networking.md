@@ -8,7 +8,7 @@
 
 [**Linux Networking**](#linux-networking)
 
-***
+---
 
 #### General Concepts
 #### OSI & TCP/IP Model
