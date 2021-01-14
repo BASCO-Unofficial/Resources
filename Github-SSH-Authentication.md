@@ -1,5 +1,5 @@
 #### [Home](README.md)
-
+---
 Github SSH Authentication
 
 Interaction with Github using git over HTTPS was an adequate solution for confidentiality and authorization. However, being required to enter account credentials each time I needed to push commits became cumbersome when a strong password has been implemented.
