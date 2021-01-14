@@ -20,7 +20,7 @@
 
 [**Certifications**](#certifications)
 
-***
+---
 
 #### Linux Tips
 ##### ↳ Linux Terminal

@@ -6,7 +6,7 @@
 
 [**Certifications**](#certifications)
 
-***
+---
 
 #### Open-Source Intelligence
 #### Cryptography
