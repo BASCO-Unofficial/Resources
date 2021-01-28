@@ -29,7 +29,7 @@ The Red Team Village CTF takes place during the GrayHat conference. This competi
 
 
 [UofA Cybercats CTF](https://game.cybercats.io/)<br>
-University of Arizona's very own Tyler Webb created this CTF! It is beginner friendly and focuses on Web Exploitation and Cryptography. This short set of challenges is a great way to get a quick feel for Capture the Flag competitions and how they work.
+University of Arizona's very own Kevin Cooper and Tyler Webb created this CTF! It is beginner friendly and focuses on Web Exploitation and Cryptography. This short set of challenges is a great way to get a quick feel for Capture the Flag competitions and how they work.
 
 ##### Resources
 
