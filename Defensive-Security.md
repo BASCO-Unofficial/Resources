@@ -1,3 +1,5 @@
+### Defensive Security
+
 #### [Home](README.md)
 ---
  [**Intrusion Detection**](#intrusion-detection)
@@ -35,6 +37,11 @@
 ##### ↳ Mobile
 ##### ↳ Networking
 #### Threat Hunting and Intelligence
+
+**Honeypots**
+[Cowrie](https://github.com/cowrie/cowrie)</br>
+A Telnet and SSH honeypot.
+
 #### Incident Response
 #### Continuous Monitoring and SIEM
 #### Certifications
