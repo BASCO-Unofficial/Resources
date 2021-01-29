@@ -52,15 +52,22 @@ This educational community offers programming exercises to train a range of skil
 [Leetcode](https://leetcode.com/)<br>
 Through a well-organized and structured guide, Leetcode helps users improve their technical knowledge with over 1800 questions in 14 languages. This community is career oriented and works to prepare candidates for technical interviews, while also helping companies identify top technical talent. Leetcode also offers powerful development tools, including a Playground, to help users test, debug, and create new projects.
 
-### Command Line Interface
-[OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)<br>
-The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other 'wargames' from Over The Wire.
+
 
 ### Defensive Security
 *Coming Soon*
 
 ### General Computing
+##### Linux
+[OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)<br>
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other 'wargames' from Over The Wire.
+
+[Linux Upskill Challenge](https://linuxupskillchallenge.org/)</br>
+A free and open-source Zero to Mastery course in Linux administration. With byte-sized lessons, this month-long course introduces the fundamental concepts for deploying and maintaining a simple web server.  
+
+### Networking
 *Coming Soon*
+
 
 ### General Information Security
 
@@ -70,10 +77,8 @@ The wargames offered by the OverTheWire community can help you to learn and prac
 [TryHackMe](https://tryhackme.com/)<br>
 Free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
-### Networking
-*Coming Soon*
-
 ### Offensive Security
+*Coming Soon*
 
 ##### Penetration Testing
 [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)<br>

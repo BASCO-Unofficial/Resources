@@ -3,7 +3,8 @@
 #### [Home](README.md)
 
 Here are the steps for connecting with GitHub over SSH. Read the rest of the article for background on why.
-#### [Steps for GitHub w/ SSH](#SSH-Authentication)
+
+[Go directly to the steps!](#SSH-Authentication)
 ---
 
 Interaction with GitHub using git over HTTPS was an adequate solution for confidentiality and authorization. However, being required to enter account credentials each time I needed to perform network actions became cumbersome when a strong password has been implemented.
@@ -23,7 +24,7 @@ However, this solution continued to prompt for credentials every 15 minutes, by 
 ### Storing Credentials Locally
 One of the simplest options I have found regarding this issue was to hard-code the user credentials into the [*.netrc* file](https://linux.die.net/man/5/netrc). Implementation of this method simply involved adding a 3-line entry to the file:
 ```
-	machine github.com
+		machine github.com
 		login <github username>
 		password <github password>
 ```
