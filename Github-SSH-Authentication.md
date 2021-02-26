@@ -4,7 +4,7 @@
 
 Here are the steps for connecting with GitHub over SSH. Read the rest of the article for background on why.
 
-[Go directly to the steps!](#SSH-Authentication)
+[Go directly to the steps!](#ssh-authentication)
 ---
 
 Interaction with GitHub using git over HTTPS was an adequate solution for confidentiality and authorization. However, being required to enter account credentials each time I needed to perform network actions became cumbersome when a strong password has been implemented.
