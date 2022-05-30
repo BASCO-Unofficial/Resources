@@ -4,7 +4,7 @@
 ---
 
 [**Capture the Flag (CTF)**](#capture-the-flag-(ctf))<br>
-[**Coding**](#Coding)<br>
+[**Coding**](#coding)<br>
 [**Command Line Interface**](#command-line-interface)<br>
 [**Defensive Security**](#defensive-security)<br>
 [**General Computing**](#general-computing)<br>
@@ -52,7 +52,8 @@ This educational community offers programming exercises to train a range of skil
 [Leetcode](https://leetcode.com/)<br>
 Through a well-organized and structured guide, Leetcode helps users improve their technical knowledge with over 1800 questions in 14 languages. This community is career oriented and works to prepare candidates for technical interviews, while also helping companies identify top technical talent. Leetcode also offers powerful development tools, including a Playground, to help users test, debug, and create new projects.
 
-
+### Command Line Interface
+*Coming Soon*
 
 ### Defensive Security
 *Coming Soon*
@@ -62,7 +63,7 @@ Through a well-organized and structured guide, Leetcode helps users improve thei
 [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)<br>
 The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other 'wargames' from Over The Wire.
 
-[Linux Upskill Challenge](https://linuxupskillchallenge.org/)</br>
+[Linux Upskill Challenge](https://linuxupskillchallenge.org/)<br>
 A free and open-source Zero to Mastery course in Linux administration. With byte-sized lessons, this month-long course introduces the fundamental concepts for deploying and maintaining a simple web server.  
 
 ### Networking

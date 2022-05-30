@@ -37,9 +37,6 @@ Extensive list of over 90 Linux CLI commands with explanations. For a more compa
 1. https://overthewire.org/wargames/bandit/
   * This is an excellent way to start learning Linux command line and some of the quirks of the Linux terminal. I'd recommend only going as far into this game as you find useful. There is no reason to complete all thirty plus levels.  
 
-<!---
-Kiera: I included overthewire-bandit on the learning-Platforms page
--->
 
 ##### ↳ Linux Networking
 #### Windows Tips
