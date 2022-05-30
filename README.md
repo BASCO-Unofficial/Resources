@@ -41,4 +41,4 @@ Interactive online services that provide information, tools and resources to sup
 Resources for every professional stage, including career awareness, exploration, preparation, and placement
 
 
-<!-- Additional page ideas: dedicated certifications, courses/training/learning platforms (under career exploration?), media (podcasts?), walkthroughs?, programs/tools? >
+<!-- Additional page ideas: dedicated certifications, courses/training/learning platforms (under career exploration?), media (podcasts?), walkthroughs?, programs/tools? -->
